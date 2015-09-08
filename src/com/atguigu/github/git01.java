@@ -7,5 +7,6 @@ public class git01 {
 		System.out.println("github to 0423");
 		System.out.println("local to 0423");
 		System.out.println("github to 0423  02");
+		System.out.println("github to 0423  03");
 	}
 }
