@@ -6,5 +6,6 @@ public class git01 {
 		System.out.println("welcome to atguigu 0423");
 		System.out.println("github to 0423");
 		System.out.println("local to 0423");
+		System.out.println("github to 0423  02");
 	}
 }
